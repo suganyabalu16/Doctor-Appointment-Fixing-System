@@ -42,6 +42,11 @@ ii.Can  be able to reduce side affects of taking medicines without doctor’s kn
 
 
 
+# Future Enhancement
+Now this project works only with some listed hospital. So in future it may be customized to work with all the hospitals. The user may get the service everywhere. This project will help all the users to get appointment globally, to each user’s for their convenient.
+
+
+
 # Team Members
 Preetha S  15ITA20 (711715205020) 
 Prithika V 15ITA22 (711715205022) 
